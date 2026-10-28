@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d0fab2-83ff-47e4-8de5-5d045c096ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EingabeLesen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gehaltserhöhung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zahlenraten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +40,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AusgabemitPrintln.executor": "Run",
+    "Application.EingabeLesen.executor": "Run",
+    "Application.Gehaltserhöhung.executor": "Run",
     "Application.MainTest.executor": "Run",
     "Application.MeinErstesProgramm.executor": "Run",
+    "Application.Zahlenraten.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,7 +62,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EingabeLesen">
+  <component name="RunManager" selected="Application.Zahlenraten">
     <configuration name="AusgabemitPrintln" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AusgabemitPrintln" />
       <module name="JavaLearn" />
@@ -73,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Gehaltserhöhung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gehaltserhöhung" />
+      <module name="JavaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="JavaLearn" />
@@ -80,8 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zahlenraten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zahlenraten" />
+      <module name="JavaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zahlenraten" />
+        <item itemvalue="Application.Gehaltserhöhung" />
         <item itemvalue="Application.EingabeLesen" />
         <item itemvalue="Application.AusgabemitPrintln" />
         <item itemvalue="Application.MainTest" />
@@ -103,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793180728889</updated>
-      <workItem from="1793180733616" duration="4155000" />
+      <workItem from="1793180733616" duration="7774000" />
     </task>
     <servers />
   </component>
