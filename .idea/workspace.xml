@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d0fab2-83ff-47e4-8de5-5d045c096ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AusgabemitPrintln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EingabeLesen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +58,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AusgabemitPrintln">
+  <component name="RunManager" selected="Application.EingabeLesen">
     <configuration name="AusgabemitPrintln" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AusgabemitPrintln" />
+      <module name="JavaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EingabeLesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EingabeLesen" />
       <module name="JavaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EingabeLesen" />
         <item itemvalue="Application.AusgabemitPrintln" />
         <item itemvalue="Application.MainTest" />
       </list>
@@ -95,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793180728889</updated>
-      <workItem from="1793180733616" duration="3744000" />
+      <workItem from="1793180733616" duration="4155000" />
     </task>
     <servers />
   </component>
