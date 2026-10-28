@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d0fab2-83ff-47e4-8de5-5d045c096ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AusgabemitPrintln.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AusgabemitPrintln.executor": "Run",
     "Application.MainTest.executor": "Run",
     "Application.MeinErstesProgramm.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -57,7 +58,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AusgabemitPrintln">
+    <configuration name="AusgabemitPrintln" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AusgabemitPrintln" />
+      <module name="JavaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="JavaLearn" />
@@ -67,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AusgabemitPrintln" />
         <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
@@ -86,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793180728889</updated>
-      <workItem from="1793180733616" duration="2845000" />
+      <workItem from="1793180733616" duration="3744000" />
     </task>
     <servers />
   </component>
