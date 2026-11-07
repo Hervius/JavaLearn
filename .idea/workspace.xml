@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d0fab2-83ff-47e4-8de5-5d045c096ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8d0fab2-83ff-47e4-8de5-5d045c096ea6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +122,7 @@
       <updated>1793180728889</updated>
       <workItem from="1793180733616" duration="8433000" />
       <workItem from="1793276625740" duration="72000" />
-      <workItem from="1793877111694" duration="1238000" />
+      <workItem from="1793877111694" duration="1888000" />
     </task>
     <servers />
   </component>
